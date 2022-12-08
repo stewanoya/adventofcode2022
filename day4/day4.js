@@ -83,4 +83,3 @@ for (let pair of parsedData) {
 
 console.log(fullOverlaps, "full overlaps");
 console.log(parsedData.length - noOverlaps, "partial overlaps");
-// console.log(parsedData.length - overlaps);
